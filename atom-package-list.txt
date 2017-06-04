@@ -1,5 +1,5 @@
-atom-react-native-autocomplete@0.0.27
 autoclose-html@0.23.0
+ex-mode@0.15.0
 hyperclick@0.0.40
 intentions@1.1.2
 js-hyperclick@1.11.0
@@ -14,5 +14,4 @@ project-manager@3.3.5
 react-native-snippets@0.3.0
 react-redux-snippets@0.1.6
 vim-mode-plus@0.93.0
-vim-mode-plus-ex-mode@0.9.1
 
